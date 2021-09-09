@@ -290,7 +290,7 @@ main .profile .avatar {
   border: 1px solid #272a37;
   position: relative;
   margin: auto;
-  border-bottom: 5px solid #256cfe;
+  border-bottom: 5px solid #f0b90c;
 }
 main .profile .avatar img {
   position: absolute;
